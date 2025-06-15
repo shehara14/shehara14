@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shehara Manathunga</h1>
 <h3 align="center">🎓 Undergraduate at SLIIT</h3>
 
-- 🌱 Currently learning: **MERN Stack**
-- 💬 Ask me about: **React, Java**
+- 🌱 Currently learning: **MERN Stack**  
+- 💬 Ask me about: **React, Java**  
 - 📫 Reach me at: **shehara314@gmail.com**
 
 ---
@@ -20,8 +20,6 @@
   </a>
   <a href="https://www.hackerrank.com/profile/sheharamanathun1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" />
-
-    
   </a>
 </p>
 
@@ -54,9 +52,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Shehara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehara&show_icons=true&theme=dark)
+![Shehara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehara14&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehara14&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shehara&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/shehara)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shehara14&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/shehara14)
